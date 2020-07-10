@@ -51,53 +51,13 @@ logo = """
 \033[1;91m   
 
                                                                                                              
-                                                                                                             
-HHHHHHHHH     HHHHHHHHH                   jjjj   iiii                      AAA               lllllll   iiii  
-H:::::::H     H:::::::H                  j::::j i::::i                    A:::A              l:::::l  i::::i 
-H:::::::H     H:::::::H                   jjjj   iiii                    A:::::A             l:::::l   iiii  
-HH::::::H     H::::::HH                                                 A:::::::A            l:::::l         
-  H:::::H     H:::::H    aaaaaaaaaaaaa  jjjjjjjiiiiiii                 A:::::::::A            l::::l iiiiiii 
-  H:::::H     H:::::H    a::::::::::::a j:::::ji:::::i                A:::::A:::::A           l::::l i:::::i 
-  H::::::HHHHH::::::H    aaaaaaaaa:::::a j::::j i::::i               A:::::A A:::::A          l::::l  i::::i 
-  H:::::::::::::::::H             a::::a j::::j i::::i              A:::::A   A:::::A         l::::l  i::::i 
-  H:::::::::::::::::H      aaaaaaa:::::a j::::j i::::i             A:::::A     A:::::A        l::::l  i::::i 
-  H::::::HHHHH::::::H    aa::::::::::::a j::::j i::::i            A:::::AAAAAAAAA:::::A       l::::l  i::::i 
-  H:::::H     H:::::H   a::::aaaa::::::a j::::j i::::i           A:::::::::::::::::::::A      l::::l  i::::i 
-  H:::::H     H:::::H  a::::a    a:::::a j::::j i::::i          A:::::AAAAAAAAAAAAA:::::A     l::::l  i::::i 
-HH::::::H     H::::::HHa::::a    a:::::a j::::ji::::::i        A:::::A             A:::::A   l::::::li::::::i
-H:::::::H     H:::::::Ha:::::aaaa::::::a j::::ji::::::i       A:::::A               A:::::A  l::::::li::::::i
-H:::::::H     H:::::::H a::::::::::aa:::aj::::ji::::::i      A:::::A                 A:::::A l::::::li::::::i
-HHHHHHHHH     HHHHHHHHH  aaaaaaaaaa  aaaaj::::jiiiiiiii     AAAAAAA                   AAAAAAAlllllllliiiiiiii
-                                         j::::j                                                              
-                               jjjj      j::::j                                                              
-                              j::::jj   j:::::j                                                              
-                              j::::::jjj::::::j                                                              
-                               jj::::::::::::j                                                               
-                                 jjj::::::jjj                                                                
-                                    jjjjjj                                                                   
-
-                         HajiAli_tricker
-
-                                                                                                                                                                                       
-                                                                                                                                                                                       
-HHHHHHHHH     HHHHHHHHH                  ZZZZZZZZZZZZZZZZZZZ                  RRRRRRRRRRRRRRRRR     iiii                TTTTTTTTTTTTTTTTTTTTTTT                NNNNNNNN        NNNNNNNN
-H:::::::H     H:::::::H                  Z:::::::::::::::::Z                  R::::::::::::::::R   i::::i               T:::::::::::::::::::::T                N:::::::N       N::::::N
-H:::::::H     H:::::::H                  Z:::::::::::::::::Z                  R::::::RRRRRR:::::R   iiii                T:::::::::::::::::::::T                N::::::::N      N::::::N
-HH::::::H     H::::::HH                  Z:::ZZZZZZZZ:::::Z                   RR:::::R     R:::::R                      T:::::TT:::::::TT:::::T                N:::::::::N     N::::::N
-  H:::::H     H:::::H    aaaaaaaaaaaaa   ZZZZZ     Z:::::Z    aaaaaaaaaaaaa     R::::R     R:::::Riiiiiii     ssssssssssTTTTTT  T:::::T  TTTTTTaaaaaaaaaaaaa   N::::::::::N    N::::::N
-  H:::::H     H:::::H    a::::::::::::a          Z:::::Z      a::::::::::::a    R::::R     R:::::Ri:::::i   ss::::::::::s       T:::::T        a::::::::::::a  N:::::::::::N   N::::::N
-  H::::::HHHHH::::::H    aaaaaaaaa:::::a        Z:::::Z       aaaaaaaaa:::::a   R::::RRRRRR:::::R  i::::i ss:::::::::::::s      T:::::T        aaaaaaaaa:::::a N:::::::N::::N  N::::::N
-  H:::::::::::::::::H             a::::a       Z:::::Z                 a::::a   R:::::::::::::RR   i::::i s::::::ssss:::::s     T:::::T                 a::::a N::::::N N::::N N::::::N
-  H:::::::::::::::::H      aaaaaaa:::::a      Z:::::Z           aaaaaaa:::::a   R::::RRRRRR:::::R  i::::i  s:::::s  ssssss      T:::::T          aaaaaaa:::::a N::::::N  N::::N:::::::N
-  H::::::HHHHH::::::H    aa::::::::::::a     Z:::::Z          aa::::::::::::a   R::::R     R:::::R i::::i    s::::::s           T:::::T        aa::::::::::::a N::::::N   N:::::::::::N
-  H:::::H     H:::::H   a::::aaaa::::::a    Z:::::Z          a::::aaaa::::::a   R::::R     R:::::R i::::i       s::::::s        T:::::T       a::::aaaa::::::a N::::::N    N::::::::::N
-  H:::::H     H:::::H  a::::a    a:::::a ZZZ:::::Z     ZZZZZa::::a    a:::::a   R::::R     R:::::R i::::i ssssss   s:::::s      T:::::T      a::::a    a:::::a N::::::N     N:::::::::N
-HH::::::H     H::::::HHa::::a    a:::::a Z::::::ZZZZZZZZ:::Za::::a    a:::::a RR:::::R     R:::::Ri::::::is:::::ssss::::::s   TT:::::::TT    a::::a    a:::::a N::::::N      N::::::::N
-H:::::::H     H:::::::Ha:::::aaaa::::::a Z:::::::::::::::::Za:::::aaaa::::::a R::::::R     R:::::Ri::::::is::::::::::::::s    T:::::::::T    a:::::aaaa::::::a N::::::N       N:::::::N
-H:::::::H     H:::::::H a::::::::::aa:::aZ:::::::::::::::::Z a::::::::::aa:::aR::::::R     R:::::Ri::::::i s:::::::::::ss     T:::::::::T     a::::::::::aa:::aN::::::N        N::::::N
-HHHHHHHHH     HHHHHHHHH  aaaaaaaaaa  aaaaZZZZZZZZZZZZZZZZZZZ  aaaaaaaaaa  aaaaRRRRRRRR     RRRRRRRiiiiiiii  sssssssssss       TTTTTTTTTTT      aaaaaaaaaa  aaaaNNNNNNNN         NNNNNNN
-                                                                                                                                                                                       
-                                                                                                                                                                                       
+                                                                                                                 
+           _  _______ _   _  _____   ______ _  __     __       _____
+| |/ /_   _| \ | |/ ____| |  ____| | \ \   / //\    / ____|
+| ' /  | | |  \| | |  __  | |__  | |  \ \_/ //  \  | (___
+|  <   | | | . ` | | |_ | |  __| | |   \   // /\ \  \___ \
+| . \ _| |_| |\  | |__| | | |____| |____| |/ ____ \ ____) |
+|_|\_\_____|_| \_|\_____| |______|______|_/_/    \_\_____/                                                                                                                                                                            
                                                                                                                                                                                        
                                                                                                                                                                                        
                                                                                                                                                                                        
